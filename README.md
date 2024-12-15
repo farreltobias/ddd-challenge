@@ -42,12 +42,12 @@ Products
 - name
 - size
 - color
-- minimum quantity
 - Stock (Aggregate)
 
 Stocks 
 - Product (Aggregate)
 - quantity
+- minimum quantity
 
 Sales
 - Product
